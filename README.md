@@ -1,139 +1,149 @@
 <div align="center">
 
-# 🛡️ ANSHUL DHIMAN
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,50:00d9ff,100:050505&height=220&section=header&text=ANSHUL%20DHIMAN&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=CYBERSECURITY%20%7C%20SOC%20ANALYST%20%7C%20BLUE%20TEAM&descAlignY=60&descSize=18" />
 
-### Cybersecurity | SOC Analyst | Blue Team | Threat Detection
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=SOC+ANALYST+%7C+CYBERSECURITY+%7C+BLUE+TEAM;THREAT+DETECTION+%7C+LOG+ANALYSIS+%7C+INCIDENT+RESPONSE;BUILDING+SECURITY+TOOLS+AND+LEARNING+EVERY+DAY" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshul%20Dhiman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuldhiman211/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anshuldhiman.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-anshuldhiman021-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshuldhiman021)
+<br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff66?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/SOC-ACTIVE-00d9ff?style=for-the-badge">
+<img src="https://img.shields.io/badge/THREAT_LEVEL-MONITORED-ffcc00?style=for-the-badge">
+<img src="https://img.shields.io/badge/BLUE_TEAM-AUTHORIZED-00ff66?style=for-the-badge">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🛡️ About Me
 
-|   |
-| - |
+> 👨‍💻 **Anshul Dhiman** — Cybersecurity-focused professional interested in **SOC Operations, Threat Detection, Incident Investigation and Blue Team Security**.
 
-🛡️ **Anshul Dhiman** — Cybersecurity professional focused on **SOC Operations, Threat Detection, Security Monitoring, and Incident Investigation**.
+> 🎓 **B.Tech in Computer Science & Engineering** from **Chitkara University, Himachal Pradesh**.
 
-🎓 Completed **B.Tech in Computer Science & Engineering** from **Chitkara University, Himachal Pradesh**.
+> 🔐 Focused on **Security Operations, Network Security, Web Security, IOC Analysis and Log Analysis**.
 
-🚨 Building **AlertForge** — a unified SOC investigation and alert triage platform for analyzing security events and generating actionable alerts.
+> 🐧 Working with **Linux, Networking, Python and Cybersecurity Tools**.
 
-🔎 Interested in **SOC Analyst, Cybersecurity Analyst, Security Operations, and Blue Team** roles.
+> 🚨 Currently building **AlertForge**, a unified SOC investigation and alert triage platform.
 
-🐧 Working with **Linux, networking, Python, security analysis, log analysis, and cybersecurity tools**.
-
-🔐 Interested in **SIEM, IOC Analysis, Phishing Detection, Web Security, Incident Response, and MITRE ATT&CK**.
-
-🎯 Currently looking for opportunities in **Cybersecurity / SOC / Security Operations**.
-
-🌐 **Portfolio:** [anshuldhiman.netlify.app](https://anshuldhiman.netlify.app/)
+> 🎯 Looking for opportunities in **SOC Analyst / Cybersecurity / Security Operations** roles.
 
 ---
 
 # 🛡️ Tech Stack & Arsenal
 
-### ⚔️ OFFENSIVE SECURITY
+## ⚔️ Offensive Security
 
 <div align="center">
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-333333?style=for-the-badge)
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 
 </div>
 
-### 🛡️ DEFENSIVE SECURITY
+## 🛡️ Defensive Security
 
 <div align="center">
 
-![SOC](https://img.shields.io/badge/SOC%20Operations-111111?style=for-the-badge)
-![SIEM](https://img.shields.io/badge/SIEM-1565C0?style=for-the-badge)
-![Threat Detection](https://img.shields.io/badge/Threat%20Detection-D32F2F?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-6A1B9A?style=for-the-badge)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF6F00?style=for-the-badge)
+<img src="https://img.shields.io/badge/SOC_OPERATIONS-00FF66?style=for-the-badge">
+<img src="https://img.shields.io/badge/THREAT_DETECTION-00D9FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/INCIDENT_RESPONSE-FF4444?style=for-the-badge">
+<img src="https://img.shields.io/badge/LOG_ANALYSIS-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/IOC_ANALYSIS-FFCC00?style=for-the-badge">
 
 </div>
 
-### ⚙️ TOOLS & PLATFORMS
+## 🔧 Security Tools
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge">
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
 
 </div>
 
-### 💻 LANGUAGES & FRAMEWORKS
+## 💻 Languages & Frameworks
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 </div>
 
-### 🐧 OS & NETWORKING
+## 🖥️ Platforms
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0D47A1?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-1565C0?style=for-the-badge)
-![HTTP](https://img.shields.io/badge/HTTP%2FHTTPS-2E7D32?style=for-the-badge)
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
 ---
 
-# 🚨 Featured Project
+# 🚨 Featured Project — AlertForge
 
-## ⚡ AlertForge
+<div align="center">
+
+<img src="https://img.shields.io/badge/ALERTFORGE-SOC%20INVESTIGATION%20PLATFORM-00FF66?style=for-the-badge&logo=shield&logoColor=black">
 
 ### Unified SOC Investigation & Alert Triage Platform
 
-AlertForge is a cybersecurity platform designed around a SOC analyst workflow for analyzing security telemetry, generating alerts, assigning risk, and investigating security events.
+</div>
 
-### 🔍 Core Capabilities
+**AlertForge** is a cybersecurity investigation platform designed to bring suspicious activity, detections and security alerts into a centralized SOC-style dashboard.
+
+### 🔍 Detection Capabilities
 
 | Capability | Description |
 |---|---|
-| 📧 Email Analysis | `.eml` phishing and email security analysis |
-| 🌐 Web Log Analysis | Suspicious request and SQL injection detection |
-| 🚨 Alert Generation | Converts detections into SOC alerts |
-| 🎯 Risk Scoring | Assigns severity and risk |
-| 🔎 IOC Analysis | Extracts and analyzes security indicators |
-| 🧩 MITRE ATT&CK | Maps security findings to ATT&CK techniques |
-| 📊 Investigation History | Tracks previous investigations |
-| 👨‍💻 Analyst Triage | New → Acknowledged → Resolved |
+| 📧 Email Analysis | Analyze suspicious/phishing `.eml` files |
+| 🌐 Web Log Analysis | Detect suspicious web requests |
+| 🚨 Alert Generation | Generate security alerts |
+| 🎯 Risk Scoring | Assign severity and risk scores |
+| 🔎 Investigation | Maintain investigation history |
+| 📊 SOC Dashboard | Centralized security monitoring |
+| ✅ Alert Resolution | Track alerts from detection to resolution |
 
-### 🔥 Detection Workflow
+### 🔄 Investigation Workflow
 
 ```text
-Security Data
-      ↓
-Detection
-      ↓
-Risk Signals
-      ↓
-Alert Generation
-      ↓
-SOC Dashboard
-      ↓
-Investigation
-      ↓
-Analyst Triage
-      ↓
-Resolution
+       SECURITY DATA
+             │
+             ▼
+      ┌──────────────┐
+      │   DETECTION  │
+      └──────┬───────┘
+             │
+             ▼
+      ┌──────────────┐
+      │ RISK SCORING │
+      └──────┬───────┘
+             │
+             ▼
+      ┌──────────────┐
+      │ ALERT CREATE │
+      └──────┬───────┘
+             │
+             ▼
+      ┌──────────────┐
+      │ INVESTIGATE  │
+      └──────┬───────┘
+             │
+             ▼
+      ┌──────────────┐
+      │   RESOLVE    │
+      └──────────────┘
